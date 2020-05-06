@@ -1,11 +1,11 @@
-
-Feature: home page
+Feature: home page 
  
  Scenario: vedikas home page
  Given vedikas url
  When i click enter
  Then it need to display vedikas home page
-  Scenario: Navigation bar
+ 
+ Scenario: Navigation bar
  Given vedikas url
  When i click on enter
  Then it need to display vedikas home page
