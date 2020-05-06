@@ -16,4 +16,4 @@ Scenario:Search bar
  Given vedikas url
  When i click on enter
  Then it need to display vedikas home page
- And in this page display search bar options like location/venue,date,time,guest
+ And in this page display search bar options like location/venue,date,time,guest 
