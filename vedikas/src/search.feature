@@ -1,5 +1,5 @@
 
-Feature: Navigating to home page
+Feature: home page
  
  Scenario: vedikas home page
  Given vedikas url
